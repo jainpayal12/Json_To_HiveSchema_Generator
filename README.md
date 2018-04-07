@@ -14,7 +14,7 @@ The tool can read JSON-formatted data only if it is in a particular format. Each
     git clone https://github.com/jainpayal12/Json_To_HiveSchema_Generator.git
 
 ##  Install the pre_requisites
-##  Assuming you have Ubuntu System
+    Assuming you have Ubuntu System
 
     $ cd <cloned_repository>/run
     $ sh install.sh
