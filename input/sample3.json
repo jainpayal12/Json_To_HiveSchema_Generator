@@ -1,0 +1,4 @@
+{
+"x" : {"business_id": "tnhfDv5Il8EaGSXZGiuQGg","name": "Garaje","neighborhood": "SoMa","address": "475 3rd St","city": "San Francisco","state": "CA", "postal code": "94107", "latitude": 37.7817529521,"longitude": -122.39612197,"stars": 4.5,"categories": [{ "Mexican" : {"val" : "Payal"}, "Burgers":2,"Gastropubs":3}],"x" : [1,2,3] },
+"y":{"business_id": "tnhfDv5Il8EaGSXZGiuQGg","name": "Garaje","neighborhood": "SoMa","address": "475 3rd St","city": "San Francisco","state": "CA", "postal code": "94107", "latitude": 37.7817529521,"longitude": -122.39612197,"stars": 4.5,"categories": [{ "Mexican" : {"val" : "Payal"}, "Burgers":2,"Gastropubs":3}],"x" : [1,2,3] }}
+
